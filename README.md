@@ -1,7 +1,7 @@
-<img width="50%" height="250" style="display: block; margin: 0 auto;" alt="Commodore 64 gif" src="https://media3.giphy.com/media/l0NwPdduX7IL1rS1i/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Drago Picari</h1>
 <h3 align="center">A passionate full stack developer focus on mobile app development</h3>
+<img align="right" alt="Coding" width="400' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragopicari&label=Profile%20views&color=0e75b6&style=flat" alt="dragopicari" /> </p>
 
