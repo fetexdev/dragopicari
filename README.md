@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Drago Picari</h1>
-<h3 align="center">A passionate full stack developer focus on mobile app development</h3>
+<h3 align="center">A passionate full stack developer focused on mobile app/web/software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragopicari&label=Profile%20views&color=0e75b6&style=flat" alt="dragopicari" /> </p>
 
