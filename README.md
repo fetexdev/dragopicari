@@ -1,4 +1,6 @@
-<img width="100%" height="400" style="display: block; margin: 0 auto; margin-left: 20%; margin-right: 20%;" alt="Commodore 64 gif" src="https://media3.giphy.com/media/l0NwPdduX7IL1rS1i/giphy.gif">
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/l0NwPdduX7IL1rS1i/giphy.gif" width="100"/>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Drago Picari</h1>
